@@ -27,9 +27,9 @@ I am a Software Engineer focused on building high-performance, modular ecosystem
 
 ### 📊 Engineering Metrics
 <p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codegrammer999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codegrammer999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codegrammer999&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codegrammer999&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
