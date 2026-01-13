@@ -25,6 +25,14 @@ I am a Software Engineer focused on building high-performance, modular ecosystem
 
 ---
 
+### 🐍 Contribution Activity
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Codegrammer999/Codegrammer999/output/github-contribution-grid-snake.svg" alt="Snake animation" />
+</p>
+
+---
+
 ### 📊 Engineering Metrics
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codegrammer999&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=1800" alt="GitHub Stats" />
