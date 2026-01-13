@@ -1,50 +1,41 @@
-# Daniel Ikechukwu Stephen
-### Full-Stack Software Engineer | Specialized in Scalable Web Ecosystems & Lightweight AI
+# Daniel Stephen Ikechukwu
+### Full-Stack Software Engineer | Specialized in Platform Engineering & Lightweight AI
 
-I am a results-driven Software Developer based in Nigeria, focused on building high-performance applications and integrated platform ecosystems. My expertise lies in the **PHP (Laravel) and Vue.js (Nuxt)** stacks, with a growing specialization in deploying **GenAI models for resource-constrained environments.**
-
----
-
-### 🚀 Professional Focus
-
-- **Ecosystem Architecture:** Currently developing a cross-sector platform strategy including **ServixHub**, **MedConnect**, and **AgroConnect** to solve local infrastructure challenges.
-- **Performance Engineering:** Expert at optimizing software for efficiency, specifically building production-ready applications optimized for low-resource hardware.
-- **Full-Stack Development:** Lead developer of **EchoBlog**, a modern content management system leveraging Nuxt 3 and Laravel.
-- **Applied AI:** Researching and implementing lightweight NLP and Computer Vision models capable of running on edge devices (4GB RAM/Termux environments).
+I am a Software Engineer focused on building high-performance, modular ecosystems. My work bridges the gap between scalable web architecture (Laravel/Nuxt) and efficient, local-first AI implementations for resource-constrained environments.
 
 ---
 
-### 🛠️ Technical Expertise
+### 👨‍💻 Key Initiatives
+
+- **Modular Platform Engineering:** Architecting a unified suite of service-driven applications (SaaS/PaaS) focused on high-availability and cross-domain integration.
+- **Performance Optimization:** Engineering production-ready solutions specifically optimized for edge computing and low-resource hardware (4GB RAM / Linux / Termux).
+- **Full-Stack Development:** Lead developer of **EchoBlog**, a modern, decoupled CMS built with Nuxt 3 and Laravel.
+- **Applied GenAI:** Implementing local-first NLP and Computer Vision models with a focus on privacy and offline accessibility.
+
+---
+
+### 🛠️ Technical Stack
 
 | Category | Technologies |
 | :--- | :--- |
 | **Frontend** | Vue 3, Nuxt 3, Tailwind CSS, JavaScript |
 | **Backend** | Laravel (PHP), Go, Python, C# |
-| **Systems/DevOps** | Linux (Mint/XFCE), Bash Scripting, Git, Neovim |
-| **Emerging Tech** | Godot (C#), Generative AI (NLP/Vision) |
-
----
-
-### 🔧 Tools & Workflow
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=vscode,neovim,github,figma,postman,linux,bash,docker" />
-</p>
+| **Environment** | Linux (Mint XFCE), Bash Scripting, Git, Neovim |
+| **Game Dev/AI** | Godot (C#), Generative AI (NLP/Vision) |
 
 ---
 
 ### 📊 Engineering Metrics
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Codegrammer999&show_icons=true&theme=tokyonight&hide_border=true" alt="Codegrammer999 stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=Codegrammer999&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Codegrammer999&layout=compact&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Codegrammer999&layout=compact&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 ### 📡 Content & Community
-Beyond engineering, I contribute to the tech community by documenting technical workflows and AI breakdowns. My goal is to bridge the gap between complex software concepts and practical, real-world implementation through technical writing and devlogs.
+I actively document technical workflows and AI research, focusing on making complex software concepts practical and accessible. My goal is to drive innovation through efficient code and clear technical communication.
 
 ---
 
