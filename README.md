@@ -9,7 +9,6 @@ I build scalable, modular software platforms with a strong focus on performance 
 
 - **Modular Platform Engineering:** Architecting a unified suite of service-driven applications (SaaS/PaaS) focused on high-availability and cross-domain integration.
 - **Performance Optimization:** Engineering production-ready solutions specifically optimized for edge computing and low-resource hardware (4GB RAM / Linux / Termux).
-- **Full-Stack Development:** Lead developer of **EchoBlog**, a modern, decoupled CMS built with Nuxt 3 and Laravel.
 - **Applied GenAI:** Implementing local-first NLP and Computer Vision models with a focus on privacy and offline accessibility.
 
 ---
