@@ -51,7 +51,7 @@ I actively document technical workflows and AI research, focusing on making comp
 
 <p align="left">
   <a href="mailto:shyyguyy501@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://github.com/Codegrammer999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
+  <!-- <a href="https://github.com/Codegrammer999"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a> -->
   <a href="https://www.linkedin.com/in/daniel-ikechukwu-282390319/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
