@@ -1,7 +1,7 @@
 # Daniel Stephen Ikechukwu
-### Full-Stack Software Engineer | Specialized in Platform Engineering & Lightweight AI
+### Full-Stack Software Engineer | Platform Engineering & Lightweight AI
 
-I am a Software Engineer focused on building high-performance, modular ecosystems. My work bridges the gap between scalable web architecture (Laravel/Nuxt) and efficient, local-first AI implementations for resource-constrained environments.
+I build scalable, modular software platforms with a strong focus on performance and reliability. My work combines modern web architecture (Laravel, Nuxt) with practical, lightweight AI systems designed to run efficiently in resource-constrained environments.
 
 ---
 
